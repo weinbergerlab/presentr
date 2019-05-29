@@ -11,6 +11,6 @@ If you examine files included with this example (before you open the Rproj in RS
 # How a participant might use this
 
 1. Download the materials: If you are looking at this in GitLab, you can download all examples by clicking the download button on the right above the file list, and then clicking "zip" under "Download source code". TODO: separate downloads for individual examples.
-2. Open the Rproj:. After the download is complete, you will have a folder (`examples/simple`) with an RStudio project file (`simple.Rproj`) inside it. Open this Rproj in RStudio.
+2. Open the Rproj: After the download is complete, you will have a folder (`examples/simple`) with an RStudio project file (`simple.Rproj`) inside it. Open this Rproj in RStudio.
 3. Install the required packages: Type `packrat::restore()` into the R studio console, followed by the enter key.
 4. Run the example script: Click on `example.R` in the RStudio files panel, then choose Code → Run Region → Run All.
