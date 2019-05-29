@@ -187,4 +187,4 @@ TODO: Does `packrat` take steps to avoid this problem?
  
 # Examples
 
-* [examples/simple](https://gitlab.com/airbornemint/presentr): Presentation materials consisting of a single R script with minimal package dependencies, ready for use by a participant with good internet access. 
+* [examples/simple](https://gitlab.com/airbornemint/presentr/examples/simple): Presentation materials consisting of a single R script with minimal package dependencies, ready for use by a participant with good internet access. 
